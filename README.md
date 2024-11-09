@@ -1,15 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF00&lines=Hello,+World!;Welcome+to+datasciencegrok!" alt="Typing SVG">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello%2C-I'm%20Harshit!-brightgreen" alt="Welcome">
+  <img src="https://img.shields.io/badge/I'm%20a-Data%20Scientist-blue" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Teaching-orange" alt="Love Coding & Teaching">
+</p>
 
 
-<h1 align="center" style="font-family: Arial, sans-serif; color: #58A6FF;">
-  <div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=cascadia&size=25&pause=1000&color=00F747&width=435&lines=%F0%9F%91%8BHELLO%2C+WORLD!;WELCOME+TO+DATASCIENCEGROK;I'M+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+JUPYTERMISHRA!;AN+ATTEMPT+TO+UNDERSTAND+;AND+BE+UNDERSTOOD+BY+;DATA+SCIENCE" alt="Typing SVG" />
-    </a>
-</div>
 
 
-  <span style="font-size: 24px; color: #FF5733;">● Focus On Tutorials, Research, Opinion And Observation.</span>
-</h1>
+
+
+
+
 
 
 
