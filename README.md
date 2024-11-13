@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <!-- Animated Badges -->
-  <img src="https://img.shields.io/badge/Hello%2C-I'm%20Harshit!-brightgreen?style=for-the-badge&logo=github" alt="Welcome">
-  <img src="https://img.shields.io/badge/I'm%20a-Data%20Scientist-blue?style=for-the-badge&logo=python" alt="Data Scientist">
-  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Teaching-orange?style=for-the-badge&logo=heartbeat" alt="Love Coding & Teaching">
+  <img src="https://img.shields.io/badge/Hello%2C-I'm%20Harshit!-brightgreen" alt="Welcome">
+  <img src="https://img.shields.io/badge/I'm%20a-Data%20Scientist-blue" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Teaching-orange" alt="Love Coding & Teaching">
 </p>
+ 
 
 <p align="center">
   <!-- Quote of the Day -->
