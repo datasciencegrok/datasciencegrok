@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&lines=Hello,+World!;Welcome+to+datasciencegrok!" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hello%2C-I'm%20Harshit!-brightgreen?style=for-the-badge&logo=github" alt="Welcome">
-  <img src="https://img.shields.io/badge/I'm%20a-Data%20Scientist-blue?style=for-the-badge&logo=python" alt="Data Scientist">
-  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Teaching-orange?style=for-the-badge&logo=heartbeat" alt="Love Coding & Teaching">
-</p>
-
-<p align="center">
-  <strong>Quote of the Day:</strong> <!--QUOTE_PLACEHOLDER-->
-</p>
-
-<p align="center">
-  <strong>Date:</strong> <!--DATE_PLACEHOLDER-->
-</p>
-
-<p align="center">
-  <strong>Special:</strong> Keep pushing your limits!
-</p>
 
 
 
@@ -29,9 +8,6 @@
 
 
 
-
-## 👋 About Me
-Hi, I'm **JupyterMishra**! A dedicated data science enthusiast who’s passionate about breaking down complex concepts and sharing insights with the community. My journey is all about learning, experimenting, and contributing to the data science field.
 
 ---
 
