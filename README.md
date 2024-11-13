@@ -48,38 +48,4 @@
 
 ---
 
-## 📈 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jupytermishra&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jupytermishra&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jupytermishra&theme=github" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🚀 My Projects
-- [**Data Science Dashboard**](https://github.com/jupytermishra/datascience-dashboard) - An interactive dashboard for data visualization using Python and Streamlit.
-- [**Machine Learning Models**](https://github.com/jupytermishra/ml-models) - A repository of various ML models with detailed explanations and code.
-- [**Data Science Insights**](https://github.com/jupytermishra/ds-insights) - A collection of data science insights and visualizations for beginners and experts alike.
-
----
-
-## 🌱 Currently Learning
-I'm continuously expanding my knowledge in:
-- Advanced Deep Learning techniques
-- NLP and Language Models
-- Deployment of ML models in production
-
----
-
-## 📫 Get in Touch
-Feel free to connect with me through any of the social links above, or drop me an email at `jupytermishra@example.com`. Let's collaborate on projects or discuss data science ideas!
-
----
-
-<h3 align="center">Thank you for visiting my profile! 😊</h3>
 
