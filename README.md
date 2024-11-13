@@ -1,10 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF00&lines=Hello,+World!;Welcome+to+datasciencegrok!" alt="Typing SVG">
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&lines=Hello,+World!;Welcome+to+datasciencegrok!" alt="Typing SVG">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello%2C-I'm%20Harshit!-brightgreen" alt="Welcome">
-  <img src="https://img.shields.io/badge/I'm%20a-Data%20Scientist-blue" alt="Data Scientist">
-  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Teaching-orange" alt="Love Coding & Teaching">
+  <!-- Animated Badges -->
+  <img src="https://img.shields.io/badge/Hello%2C-I'm%20Harshit!-brightgreen?style=for-the-badge&logo=github" alt="Welcome">
+  <img src="https://img.shields.io/badge/I'm%20a-Data%20Scientist-blue?style=for-the-badge&logo=python" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Teaching-orange?style=for-the-badge&logo=heartbeat" alt="Love Coding & Teaching">
+</p>
+
+<p align="center">
+  <!-- Quote of the Day -->
+  <strong>Quote of the Day:</strong> <!-- QUOTE_PLACEHOLDER -->
+</p>
+
+<p align="center">
+  <!-- Today's Date -->
+  <strong>Date:</strong> <!-- DATE_PLACEHOLDER -->
+</p>
+
+<p align="center">
+  <!-- Special Message -->
+  <strong>Special:</strong> Keep pushing your limits!
 </p>
 
 
