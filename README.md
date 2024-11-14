@@ -1,13 +1,17 @@
-
-
-
-<h1 align="center">Hi there, I'm jupytermishra! 👋</h1>
+<h1 align="center">Hi there, I'm Harshit! 👋</h1>
+<h3 align="center">An Enthusiastic Data Scientist | Educator | Science Communicator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Lifelong+Learner+and+Educator;Explore%2C+Learn%2C+and+Grow+with+Me!;Every+Visit+Brings+New+Insights+%F0%9F%93%96" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="500" height="300"/>
 </p>
 
 ---
+
+### 🚀 About Me
+I'm a passionate data scientist and educator dedicated to sharing insights, updates, and fun knowledge in the data and science fields. My mission is to make data science approachable, exciting, and educational for everyone!
+
+---
+
 
 
 ---
