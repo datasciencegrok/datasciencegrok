@@ -1,5 +1,15 @@
 
 
+
+<h1 align="center">Hi there, I'm jupytermishra! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Lifelong+Learner+and+Educator;Explore%2C+Learn%2C+and+Grow+with+Me!;Every+Visit+Brings+New+Insights+%F0%9F%93%96" alt="Typing SVG">
+</p>
+
+---
+
+
 ---
 
 ## 🧠 Skills & Tools
