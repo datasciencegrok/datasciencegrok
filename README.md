@@ -1,4 +1,13 @@
-<h1 align="center">welcome, datasciencegrok 👋</h1>
+<h1 align="center">✨ Welcome, DataScienceGrok 👋 ✨</h1>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRpczhjdGZrazhuamxxeTVweDI5cm9mcDQ5cmV4ZTJuaTd3cGs5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QSz4qjPPIkt2TWDd8N/giphy.gif" />
+</p>
+
+
+
+
 <h3 align="center">Data Scientist | Researcher | Professor  | Science Communicator</h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/datasciencegrok?label=Followers&style=social" alt="GitHub followers" />
@@ -6,8 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Lifelong+Learner+and+Educator;Explore%2C+Learn%2C+and+Grow+with+Me!;Every+Visit+Brings+New+Insights+%F0%9F%93%96" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Believe+in+the+Power+of+Knowledge;Code+Your+Dreams+Into+Reality;Learning+Never+Stops+%F0%9F%93%96;Strive+for+Progress%2C+Not+Perfection;Inspire%2C+Innovate%2C+Impact+%F0%9F%92%A1" alt="Typing SVG">
 </p>
+
 
 
 
@@ -35,11 +45,11 @@ Others       1 hr  4 mins   ░░░░░░░░░░░░░░░░░�
 ---
 ## 🧑‍🏫 Professional Stats & Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Monthly%20Earnings-%24300-orange" alt="Monthly Earnings"/>
-  <img src="https://img.shields.io/badge/Data%20Science%20Projects-50%2B-blue" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Years%20Teaching%20Experience-2+-green" alt="Teaching Experience"/>
-</p>
+## My Profile Stats
+
+| Monthly Earnings                 | Data Science Projects                | Teaching Experience              |
+|----------------------------------|--------------------------------------|----------------------------------|
+| ![Monthly Earnings](https://img.shields.io/badge/Monthly%20Earnings-%24300-orange) | ![Projects](https://img.shields.io/badge/Data%20Science%20Projects-50%2B-blue) | ![Teaching Experience](https://img.shields.io/badge/Years%20Teaching%20Experience-2+-green) |
 
 
 ---
@@ -96,10 +106,9 @@ Others       1 hr  4 mins   ░░░░░░░░░░░░░░░░░�
 
 ---
 
-### 🌟 Latest Updates & Data Science Insights
+### 🌟 Quotes Of The Day
 
-- **Latest Tutorial**: Getting started with Pandas for Large Data Analysis 📊
-- **Instagram Niche**: Communicating complex science topics in simple, engaging ways. Find me at [Instagram](https://www.instagram.com/datasciencegrok/)
+
 
 ---
 
