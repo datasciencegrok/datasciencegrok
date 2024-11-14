@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Jupytermishra 👋</h1>
-<h3 align="center">An Enthusiastic Data Scientist | Educator | Science Communicator</h3>
+<h1 align="center">welcome, datasciencegrok 👋</h1>
+<h3 align="center">Data Scientist | Researcher | Professor  | Science Communicator</h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/datasciencegrok?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=datasciencegrok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,9 +11,7 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="500" height="300"/>
-</p>
+
 
 ---
 
