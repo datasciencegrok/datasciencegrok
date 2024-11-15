@@ -26,30 +26,80 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate data scientist and educator dedicated to sharing insights, updates, and fun knowledge in the data and science fields. My mission is to make data science approachable, exciting, and educational for everyone!
+I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowledge in the data and science fields. My mission is to make data science approachable, exciting, and educational for everyone!
 
 ---
 
-## 📈 Weekly Coding Stats (Dynamic)
+## 📈 Weekly Stats (Dynamic)
 
 <!--START_SECTION:waka-->
-```text
-Python       15 hrs 24 mins ████████████░░░░░░░░░░░░░  55%
-Markdown     5 hrs 12 mins  █████░░░░░░░░░░░░░░░░░░░  20%
-Jupyter      4 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░  15%
-HTML/CSS     2 hrs          ██░░░░░░░░░░░░░░░░░░░░░░   5%
-Others       1 hr  4 mins   ░░░░░░░░░░░░░░░░░░░░░░░░   5%
-```
+
+## Weekly Learning and Activity Stats
+
+| Language/Tool | Time Spent | Percentage |
+|---------------|------------|------------|
+| **Python**       | 15 hrs 24 mins | ████████████░░░░░░░░░░░░  55% |
+| **Markdown**     | 5 hrs 12 mins  | █████░░░░░░░░░░░░░░░░░░░  20% |
+| **Jupyter**      | 4 hrs 20 mins  | ███░░░░░░░░░░░░░░░░░░░░░  15% |
+| **HTML/CSS**     | 2 hrs          | ██░░░░░░░░░░░░░░░░░░░░░░   5% |
+| **Others**       | 1 hr  4 mins   | ░░░░░░░░░░░░░░░░░░░░░░░░   5% |
+
+## Weekly Learning Highlights
+
+- **Python**: Practiced advanced functions, built a High-Low guessing game, and explored data manipulation with Pandas.
+- **Data Stats**: Focused on statistical analysis for research papers, enhancing insights with regression and visualization techniques.
+- **Markdown**: Created structured documentation and data science reports.
+- **Jupyter Notebooks**: Utilized for data visualization and interactive data analysis, especially with large datasets.
+
+## Data Stats Insights
+
+- **Most Frequent Library**: `Pandas` for data wrangling.
+- **Top Visuals**: Created insights using `Seaborn` for clear, attractive plots.
+- **Focus Area**: Regression techniques and statistical distributions analysis.
+
+
+
+---
+
 <!--END_SECTION:waka-->
 
 ---
-## 🧑‍🏫 Professional Stats & Achievements
+## 🧑‍🏫 Research Updates, Videos, Blogs and Resources
 
-## My Profile Stats
 
-| Monthly Earnings                 | Data Science Projects                | Teaching Experience              |
-|----------------------------------|--------------------------------------|----------------------------------|
-| ![Monthly Earnings](https://img.shields.io/badge/Monthly%20Earnings-%24300-orange) | ![Projects](https://img.shields.io/badge/Data%20Science%20Projects-50%2B-blue) | ![Teaching Experience](https://img.shields.io/badge/Years%20Teaching%20Experience-2+-green) |
+
+
+## 📑 Research Updates
+
+| Title                     | Status        | Link                                      | Genres           | Duration      | Date                      |
+|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
+| Latest AI Trends          | Ongoing       | [View Update](#)                          | AI, Machine Learning | Q1 2024         | Updated monthly             |
+| Sustainable Data Practices | Completed    | [View Paper](#)                           | Data Science, Sustainability | 2023          | Collaborated with XYZ Univ. |
+| Neural Network Advances   | In Progress   | [View Article](#)                         | Deep Learning     | 2024            | Final analysis pending      |
+
+## 🎥 Videos
+
+| Title                     | Status        | Link                                      | Genres           | Time Period      | Date                       |
+|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
+| Introduction to Python    | Released      | [Watch Video](#)                          | Programming      | 2023            | Suitable for beginners      |
+| Data Science with Pandas  | Upcoming      | [Scheduled Link](#)                       | Data Science     | Q4 2024         | Advanced-level guide        |
+| AI Ethics Overview        | Released      | [Watch Video](#)                          | AI, Ethics       | 2024            | Includes case studies       |
+
+## 📚 Blogs
+
+| Title                     | Status        | Link                                      | Genres           | Time Period      | Date                       |
+|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
+| Data Trends in 2023       | Published     | [Read Blog](#)                            | Data Science     | 2023            | Summarizes key trends       |
+| Python for Non-Tech       | Draft         | [View Draft](#)                           | Programming      | 2024            | Targeting non-technical readers |
+| Sustainability in AI      | Published     | [Read Blog](#)                            | AI, Sustainability | 2023            | Co-written with experts     |
+
+## 📖 Resources
+
+| Title                     | Status        | Link                                      | Genres           | Time Period      | Date                       |
+|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
+| Python Cheat Sheet        | Available     | [Download](#)                             | Programming      | 2023            | Handy for quick reference   |
+| Data Science E-book       | Published     | [Download](#)                             | Data Science     | 2024            | Comprehensive guide         |
+| AI Case Studies           | Planned       | [Access Resource](#)                      | AI               | 2024            | Expected Q2 release         |
 
 
 ---
@@ -111,8 +161,19 @@ Others       1 hr  4 mins   ░░░░░░░░░░░░░░░░░�
 
 ---
 
-### 🌟 Quotes Of The Day
 
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Vhi3c3JfcWkztJVL1O/giphy.gif?cid=ecf05e47y26ha3zkh8vxnrjum6kuwfb7gg82geahokgoyrvs&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
+
+
+### Music Mood:
+- [Relaxing Music](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7) - A soothing playlist to keep you focused
+
+### Podcast of the Day:
+- [Data Skeptic](https://open.spotify.com/show/6qW9NZlFeSRCFaDvQFIhNx) - A podcast about data science, AI, and machine learning!
 
 
 ---
