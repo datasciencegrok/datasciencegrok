@@ -112,7 +112,7 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 |                           |               |                   |                   |               |                 |
 
 --- 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -223,7 +223,6 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 
 
 
-## 🙏 **Thank You**  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=Thank+You+for+Visiting+My+Profile!+😊;Hope+You+Have+a+Great+Day!+🌟;Feel+Free+to+Connect+With+Me!+🤝" alt="Thank You Animation with Emojis">
