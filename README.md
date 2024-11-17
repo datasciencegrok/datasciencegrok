@@ -66,42 +66,47 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 ---
 ## 🧑‍🏫 Research Updates, Videos, Blogs and Resources
 
-
-
+## 🔗 
 
 ## 📑 Research Updates
 
-| Title                     | Status        | Link                                      | Genres           | Duration      | Date                      |
-|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
-| Latest AI Trends          | Ongoing       | [View Update](#)                          | AI, Machine Learning | Q1 2024         | Updated monthly             |
-| Sustainable Data Practices | Completed    | [View Paper](#)                           | Data Science, Sustainability | 2023          | Collaborated with XYZ Univ. |
-| Neural Network Advances   | In Progress   | [View Article](#)                         | Deep Learning     | 2024            | Final analysis pending      |
+| Title                     | Status        | Link              | Genres           | Duration      | Date            |
+|---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+
+---
 
 ## 🎥 Videos
 
-| Title                     | Status        | Link                                      | Genres           | Time Period      | Date                       |
-|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
-| Introduction to Python    | Released      | [Watch Video](#)                          | Programming      | 2023            | Suitable for beginners      |
-| Data Science with Pandas  | Upcoming      | [Scheduled Link](#)                       | Data Science     | Q4 2024         | Advanced-level guide        |
-| AI Ethics Overview        | Released      | [Watch Video](#)                          | AI, Ethics       | 2024            | Includes case studies       |
+| Title                     | Status        | Link              | Genres           | Time Period   | Date            |
+|---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+
+---
 
 ## 📚 Blogs
 
-| Title                     | Status        | Link                                      | Genres           | Time Period      | Date                       |
-|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
-| Data Trends in 2023       | Published     | [Read Blog](#)                            | Data Science     | 2023            | Summarizes key trends       |
-| Python for Non-Tech       | Draft         | [View Draft](#)                           | Programming      | 2024            | Targeting non-technical readers |
-| Sustainability in AI      | Published     | [Read Blog](#)                            | AI, Sustainability | 2023            | Co-written with experts     |
+| Title                     | Status        | Link              | Genres           | Time Period   | Date            |
+|---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+
+---
 
 ## 📖 Resources
 
-| Title                     | Status        | Link                                      | Genres           | Time Period      | Date                       |
-|---------------------------|---------------|-------------------------------------------|-------------------|------------------|-----------------------------|
-| Python Cheat Sheet        | Available     | [Download](#)                             | Programming      | 2023            | Handy for quick reference   |
-| Data Science E-book       | Published     | [Download](#)                             | Data Science     | 2024            | Comprehensive guide         |
-| AI Case Studies           | Planned       | [Access Resource](#)                      | AI               | 2024            | Expected Q2 release         |
+| Title                     | Status        | Link              | Genres           | Time Period   | Date            |
+|---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
 
-
+--- 
 ---
 
 ## 📊 GitHub Stats
@@ -178,5 +183,47 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 
 ---
 
+# 🌟 **Connect with Me**  
+
+<p align="center">
+  <a href="https://www.youtube.com/@datasciencegrok">
+    <img src="https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube" alt="YouTube English" />
+  </a>
+  <a href="https://www.youtube.com/@jupytermishra">
+    <img src="https://img.shields.io/badge/YouTube-Hindi-red?style=for-the-badge&logo=youtube" alt="YouTube Hindi" />
+  </a>
+  <a href="https://medium.com/@datasciencegrok">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium" alt="Medium" />
+  </a>
+  <a href="https://x.com/datasciencegrok">
+    <img src="https://img.shields.io/badge/X-Tweets-blue?style=for-the-badge&logo=x" alt="Twitter/X" />
+  </a>
+  <a href="https://www.instagram.com/jupytermishra/">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+# ☕ **Support My Work**  
+<p align="center">
+  <a href="https://buymeacoffee.com/datasciencegrok">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
+# 💬 **Quotes**  
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Success+usually+comes+to+those+who+work.;The+best+way+to+predict+the+future+is+to+create+it.;Stay+positive%2C+work+hard%2C+make+it+happen." alt="Typing Animation for Quotes"> </p>
+
+
+
+## 🙏 **Thank You**  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=Thank+You+for+Visiting+My+Profile!+😊;Hope+You+Have+a+Great+Day!+🌟;Feel+Free+to+Connect+With+Me!+🤝" alt="Thank You Animation with Emojis">
+</p>
 
 
