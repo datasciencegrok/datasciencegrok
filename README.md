@@ -30,13 +30,15 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 
 ---
 
+
+
 ## 📈 Weekly Stats (Dynamic)
 
 <!--START_SECTION:waka-->
 
 ## Weekly Learning and Activity Stats
 
-| Language/Tool | Time Spent | Percentage |
+| Work | Time Spent | Percentage |
 |---------------|------------|------------|
 | **Python**       | 15 hrs 24 mins | ████████████░░░░░░░░░░░░  55% |
 | **Markdown**     | 5 hrs 12 mins  | █████░░░░░░░░░░░░░░░░░░░  20% |
@@ -46,20 +48,23 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 
 ## Weekly Learning Highlights
 
-- **Python**: Practiced advanced functions, built a High-Low guessing game, and explored data manipulation with Pandas.
-- **Data Stats**: Focused on statistical analysis for research papers, enhancing insights with regression and visualization techniques.
-- **Markdown**: Created structured documentation and data science reports.
-- **Jupyter Notebooks**: Utilized for data visualization and interactive data analysis, especially with large datasets.
 
-## Data Stats Insights
 
-- **Most Frequent Library**: `Pandas` for data wrangling.
-- **Top Visuals**: Created insights using `Seaborn` for clear, attractive plots.
-- **Focus Area**: Regression techniques and statistical distributions analysis.
+## Data Insights and Tool Techniques
+
+
 
 
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=5000&pause=1000&color=F39C12&center=true&vCenter=true&width=600&height=100&lines=Success+is+not+final%2C+failure+is+not+fatal%3B+It+is+the+courage+to+continue+that+counts." alt="Typing Animation for Inspirational Quote">
+</p>
+
+<p align="center">
+  <em>- Winston Churchill</em>
+</p>
+
 
 <!--END_SECTION:waka-->
 
@@ -214,9 +219,7 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 
 ---
 
-# 💬 **Quotes**  
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Success+usually+comes+to+those+who+work.;The+best+way+to+predict+the+future+is+to+create+it.;Stay+positive%2C+work+hard%2C+make+it+happen." alt="Typing Animation for Quotes"> </p>
 
 
 
