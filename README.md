@@ -90,9 +90,8 @@ Perfection is a journey, not a destination.
 <!--END_SECTION:waka-->
 
 ---
-## 🧑‍🏫 Research Updates, Videos, Blogs and Resources
-
-## 🔗 
+# 🧑‍🏫 Research Updates, Videos, Blogs and Resources
+## 🔗 update weekly 👇
 
 ## 📑 Research Updates
 
