@@ -90,10 +90,10 @@ Perfection is a journey, not a destination.
 <!--END_SECTION:waka-->
 
 ---
-# 🧑‍🏫 Research Updates, Videos, Blogs and Resources
+# 🧑‍🏫 Research News, Videos, Blogs, Projects and Resources
 ## 🔗 update weekly 👇
 
-## 📑 Research Updates
+## 📑 Research News
 
 | Title                     | Status        | Link              | Genres           | Duration      | Date            |
 |---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
@@ -123,6 +123,15 @@ Perfection is a journey, not a destination.
 
 ---
 
+## 📚 Projects
+
+| Title                     | Status        | Link              | Genres           | Time Period   | Date            |
+|---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+|                           |               |                   |                   |               |                 |
+
+---
 ## 📖 Resources
 
 | Title                     | Status        | Link              | Genres           | Time Period   | Date            |
