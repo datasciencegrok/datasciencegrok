@@ -242,7 +242,6 @@ Perfection is a journey, not a destination.
 
 # ☕ **Support My Work**  
 <p align="center">
-   <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
   <a href="https://buymeacoffee.com/datasciencegrok">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" />
   </a>
