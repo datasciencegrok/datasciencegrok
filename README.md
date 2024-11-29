@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/datasciencegrok?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=datasciencegrok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Friday-November 29, 2024-light" />
 </p>
 
 <p align="center">
@@ -51,8 +52,6 @@ Perfection is a journey, not a destination.
 
 ---
 
-
-
 ## 📈 Weekly Stats (Dynamic)
 
 <!--START_SECTION:waka-->
@@ -68,6 +67,7 @@ Perfection is a journey, not a destination.
 | **Others**       | 1 hr  4 mins   | ░░░░░░░░░░░░░░░░░░░░░░░░   5% |
 
 ## Weekly Learning Highlights
+
 
 
 
@@ -209,7 +209,7 @@ Perfection is a journey, not a destination.
 
 
 ### Music Mood:
-- [Relaxing Music](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7) - A soothing playlist to keep you focused
+- [Concentration Music](https://open.spotify.com/playlist/37i9dQZF1DWSluGMsH1R9r) - A soothing playlist to keep you focused
 
 ### Podcast of the Day:
 - [Data Skeptic](https://open.spotify.com/show/6qW9NZlFeSRCFaDvQFIhNx) - A podcast about data science, AI, and machine learning!
