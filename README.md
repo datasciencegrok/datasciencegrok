@@ -48,6 +48,28 @@ Together, we learn, evolve, and grow.
 
 Perfection is a journey, not a destination.
 
+## 👨🏻‍🎓 Educational Background
+
+| Year        | Institution           | Degree                     |
+|-------------|-----------------------|----------------------------|
+| 2019 - 2023 | Medi-Caps University        | Bachelor of Technology in Electronics and Communication Engineering  |
+| 2015 - 2019 | ILVA School       | Intermediate Education       |
+| 2013 - 2015 | ILVA School       | High School Education       |
+| 2011 - 2013 | ILVA School     | Upper Primary Education            |
+| 2006 - 2011 | Bal Bharati School | Lower Primary Education       |
+| 2005 - 2006 | Bal Bharati School | Pre Primary Education       |
+
+## 👷🏼 Work Profile
+
+| Year        | Company               | Position                   | Responsibilities         |
+|-------------|-----------------------|----------------------------|--------------------------|
+| 2024 - Present | Leidos.com | Data Scientist           | Extract actionable insights, build predictive models and optimize business processes. |
+| 2024 - Present | Medium.com | Data Science Writer           | Extract actionable insights, build predictive models and optimize business processes. |
+| 2023 - Present | preply.com | Data Science Educator | Deliver engaging data science courses and sessions, help students to build real-world data science projects, mentor 1000+ learners. |
+| 2022 - 2024 | chegg.com           | Junior Machine Learning Engineer           | Develop, deploy, and maintain data models for clients, optimized and solve complex business problems. |
+
+
+
 
 
 ---
@@ -56,7 +78,7 @@ Perfection is a journey, not a destination.
 
 <!--START_SECTION:waka-->
 
-## Weekly Learning and Activity Stats
+## ⭐ Weekly Learning and Activity Stats
 
 | Work | Time Spent | Percentage |
 |---------------|------------|------------|
@@ -66,12 +88,12 @@ Perfection is a journey, not a destination.
 | **HTML/CSS**     | 2 hrs          | ██░░░░░░░░░░░░░░░░░░░░░░   5% |
 | **Others**       | 1 hr  4 mins   | ░░░░░░░░░░░░░░░░░░░░░░░░   5% |
 
-## Weekly Learning Highlights
+## ✎ Weekly Learning Highlights
 
 
 
 
-## Data Insights and Tool Techniques
+## ⚙️ Data Insights and Tool Techniques
 
 
 
