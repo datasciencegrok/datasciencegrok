@@ -123,7 +123,7 @@ Perfection is a journey, not a destination.
 
 ---
 
-## 📚 Projects
+## 🚀 Projects
 
 | Title                     | Status        | Link              | Genres           | Time Period   | Date            |
 |---------------------------|---------------|-------------------|-------------------|---------------|-----------------|
