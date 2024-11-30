@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/datasciencegrok?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=datasciencegrok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Friday-November 29, 2024-light" />
+  <img src="https://img.shields.io/badge/Friday-November 30, 2024-light" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Perfection is a journey, not a destination.
 | Year        | Company               | Position                   | Responsibilities         |
 |-------------|-----------------------|----------------------------|--------------------------|
 | 2024 - Present | Leidos.com | Data Scientist           | Extract actionable insights, build predictive models and optimize business processes. |
-| 2024 - Present | Medium.com | Data Science Writer           | Extract actionable insights, build predictive models and optimize business processes. |
+| 2024 - Present | Medium.com | Data Science Writer           | An attempt to understand and be understood by data science. |
 | 2023 - Present | preply.com | Data Science Educator | Deliver engaging data science courses and sessions, help students to build real-world data science projects, mentor 1000+ learners. |
 | 2022 - 2024 | chegg.com           | Junior Machine Learning Engineer           | Develop, deploy, and maintain data models for clients, optimized and solve complex business problems. |
 
