@@ -61,13 +61,6 @@ Perfection is a journey, not a destination.
 
 ## 👷🏼 Work Profile
 
-| Year        | Company               | Position                   | Responsibilities         |
-|-------------|-----------------------|----------------------------|--------------------------|
-| 2024 - Present | Leidos.com | Data Scientist           | Extract actionable insights, build predictive models and optimize business processes. |
-| 2024 - Present | Medium.com | Data Science Writer           | An attempt to understand and be understood by data science. |
-| 2023 - Present | preply.com | Data Science Educator | Deliver engaging data science sessions, courses and help students to build real-world data science projects, mentor 500+ learners. |
-| 2022 - 2024 | GlobalLogic          | Machine Learning Engineer           | Develop, deploy, and maintain data models for clients, optimized and solve complex business problems. |
-| 2021 - 2022 | GlobalLogic          | Machine Learning Engineer Intern           | Assisted in developing and deploying machine learning solutions, preprocessing data, implementing algorithms, tuning models, and supporting project delivery. |
 
 
 
