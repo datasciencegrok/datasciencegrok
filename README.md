@@ -33,8 +33,7 @@ I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowled
 
 
 Tutorials, Theories, Research, Opinions, and Observations. 
-Insights that make data science approachable and fun for everyone. 
-A commitment to growth, learning, and evolution in this ever-evolving field.
+
 
 
 🌟 Join the @DataScienceGrok Mission! 🌟
@@ -61,7 +60,7 @@ Perfection is a journey, not a destination.
 
 ## 👷🏼 Work Profile
 
-
+I neither have any technical experience nor have I worked anywhere. An attempt to understand and be understood by data science.
 
 
 
