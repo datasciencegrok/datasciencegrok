@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 About Me
-I'm a jupytermishra, who dedicated to sharing insights, updates, and fun knowledge in the data and science fields. My mission is to make data science approachable, exciting, and educational for everyone!
+I'm a jupytermishra, who dedicated to make data science approachable, exciting, and educational for everyone!
 
 🤷‍♂️ What to Expect:
 
@@ -74,18 +74,6 @@ I neither have any technical experience nor have I worked anywhere. An attempt t
 
 ---
 
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datasciencegrok&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasciencegrok&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
----
-
 ## 🧠 Tools & Technologies
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -129,7 +117,15 @@ I neither have any technical experience nor have I worked anywhere. An attempt t
   </a>
 </p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datasciencegrok&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasciencegrok&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
 ---
 
@@ -164,11 +160,6 @@ I neither have any technical experience nor have I worked anywhere. An attempt t
 </p>
 
 ---
-
-
-
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=Thank+You+for+Visiting+My+Profile!+😊;Hope+You+Have+a+Great+Day!+🌟;Feel+Free+to+Connect+With+Me!+🤝" alt="Thank You Animation with Emojis">
