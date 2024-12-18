@@ -133,23 +133,6 @@ I neither have any technical experience nor have I worked anywhere. An attempt t
 
 ---
 
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Vhi3c3JfcWkztJVL1O/giphy.gif?cid=ecf05e47y26ha3zkh8vxnrjum6kuwfb7gg82geahokgoyrvs&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
-
-
-### Music Mood:
-- [Concentration Music](https://open.spotify.com/playlist/37i9dQZF1DWSluGMsH1R9r) - A soothing playlist to keep you focused
-
-### Podcast of the Day:
-- [Data Skeptic](https://open.spotify.com/show/6qW9NZlFeSRCFaDvQFIhNx) - A podcast about data science, AI, and machine learning!
-
-
----
-
 # 🌟 **Connect with Me**  
 
 <p align="center">
