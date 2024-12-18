@@ -134,10 +134,7 @@ I neither have any technical experience nor have I worked anywhere. An attempt t
 <p align="center">
  
   <a href="https://www.youtube.com/@datasciencegrok">
-    <img src="https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube" alt="YouTube English" />
-  </a>
-  <a href="https://www.youtube.com/@jupytermishra">
-    <img src="https://img.shields.io/badge/YouTube-Hindi-red?style=for-the-badge&logo=youtube" alt="YouTube Hindi" />
+    <img src="https://img.shields.io/badge/YouTube-datasciencegrok-red?style=for-the-badge&logo=youtube" alt="YouTube English" />
   </a>
   <a href="https://medium.com/@datasciencegrok">
     <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium" alt="Medium" />
