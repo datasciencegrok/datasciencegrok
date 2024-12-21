@@ -145,6 +145,10 @@ I neither have any technical experience nor have I worked anywhere. An attempt t
   <a href="https://www.instagram.com/jupytermishra/">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
+  <a href="https://bsky.app/profile/datasciencegrok.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-Follow%20Me-0000FF?style=for-the-badge&logo=bluesky" alt="Bluesky" />
+</a>
+
 </p>
 
 ---
