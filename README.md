@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/datasciencegrok?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=datasciencegrok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Wednesday-January 08, 2025-light" />
+  <img src="https://img.shields.io/badge/Thursday-January 09, 2025-light" />
 </p>
 
 <p align="center">
@@ -46,17 +46,6 @@ Together, we learn, evolve, and grow.
 
 
 Perfection is a journey, not a destination.
-
-## 👨🏻‍🎓 Educational Background
-
-| Year        | Institution           | Degree                     |
-|-------------|-----------------------|----------------------------|
-| 2019 - 2023 | Medi-Caps University        | Bachelor of Technology in Electronics and Communication Engineering  |
-| 2015 - 2019 | ILVA School       | Intermediate Education       |
-| 2013 - 2015 | ILVA School       | High School Education       |
-| 2011 - 2013 | ILVA School     | Upper Primary Education            |
-| 2006 - 2011 | Bal Bharati School | Lower Primary Education       |
-| 2005 - 2006 | Bal Bharati School | Pre Primary Education       |
 
 ## 👷🏼 Work Profile
 
