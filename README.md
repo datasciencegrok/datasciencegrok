@@ -47,9 +47,6 @@ Together, we learn, evolve, and grow.
 
 Perfection is a journey, not a destination.
 
-## 👷🏼 Work Profile
-
-I neither have any technical experience nor have I worked anywhere. An attempt to understand and be understood by data science.
 
 ---
 <p align="center">
