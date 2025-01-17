@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 About Me
-I'm a jupytermishra, who dedicated to make data science approachable, exciting, and educational for everyone!
+I'm jupytermishra, who dedicated to make data science approachable, exciting, and educational for everyone!
 
 🤷‍♂️ What to Expect:
 
