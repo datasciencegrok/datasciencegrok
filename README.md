@@ -36,7 +36,7 @@ Tutorials, Theories, Research, Opinions, and Observations.
 
 
 
-🌟 Join the @DataScienceGrok Mission! 🌟
+🌟 Join the DataScienceGrok Mission! 🌟
 
 
 Together, we learn, evolve, and grow.
