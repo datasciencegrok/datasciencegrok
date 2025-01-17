@@ -32,7 +32,7 @@ I'm jupytermishra, who dedicated to make data science approachable, exciting, an
 🤷‍♂️ What to Expect:
 
 
-Tutorials, Theories, Research, Opinions, and Observations. 
+Tutorials, Theories, Research, Opinion, and Observation. 
 
 
 
