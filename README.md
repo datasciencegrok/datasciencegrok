@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/datasciencegrok?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=datasciencegrok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Sundayday-January 19, 2025-light" />
+  <img src="https://img.shields.io/badge/Sunday-January 19, 2025-light" />
 </p>
 
 <p align="center">
