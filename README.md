@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 About Me
-datasciencegrok dedicated to make data science approachable, exciting, and educational for everyone!
+data science approachable, exciting, and educational for everyone!
 
 🤷‍♂️ What to Expect:
 
