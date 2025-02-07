@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 About Me
-data science approachable, exciting, and educational for everyone!
+I'm Harshit Mishra, data science autodidactic who dedicated to make data science approachable, exciting, and educational for everyone!
 
 🤷‍♂️ What to Expect:
 
