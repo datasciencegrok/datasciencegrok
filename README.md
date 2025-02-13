@@ -29,13 +29,6 @@
 ## 🚀 About Me
 I'm Harshit Mishra, data science autodidactic who dedicated to make data science approachable, exciting, and educational for everyone!
 
-🤷‍♂️ What to Expect:
-
-
-Tutorials, Theories, Research, Opinion, and Observation. 
-
-
-
 🌟 Join the DataScienceGrok Mission! 🌟
 
 
