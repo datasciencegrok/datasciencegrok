@@ -29,16 +29,7 @@
 ## 🚀 About Me
 I'm Harshit Mishra, data science autodidactic who dedicated to make data science approachable, exciting, and educational for everyone!
 
-🌟 Join the DataScienceGrok Mission! 🌟
 
-
-Together, we learn, evolve, and grow.
-
-
-🕒 Not too early, not too late—just start!
-
-
-Perfection is a journey, not a destination.
 
 
 ---
